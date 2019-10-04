@@ -1,6 +1,13 @@
+html {
+  background: url(sound-bar.svg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
   text-align: center;
-  background-color: #283149;
 }
 
 h1 {
@@ -12,7 +19,33 @@ h1 {
 
 footer {
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family: "Arvo", cursive;
+  position: fixed;
+  position: fixed;
+  width: 500px;
+  height: 200px;
+  margin: 5% auto; /* Will not center vertically and won't work in IE6/7. */
+  left: 0;
+  right: 0;
+  top: 85%;
+}
+
+.container {
+  display: relative;
+  height: 100%;
+  width: 100%;
+}
+
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page)*/
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,.55); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
 }
 
 .w {
@@ -47,29 +80,22 @@ footer {
   margin: 10% auto;
 }
 
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
 }
 
-.red {
-  color: red;
-}
-
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #7b0453b8;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
+  color: #464646ba;
+  text-shadow: -1px -1px 0 #000000,
+
+             -2px -2px 1px #000;;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
