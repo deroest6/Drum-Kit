@@ -7,5 +7,5 @@ I just want to bang on the drum all day. If this is you... get bangin to these d
 HTML, CSS, Javascript
 
 
-### Bang here
+### Bang On The Drums
 (https://www.deroest6.github.io/Drum-Kit/) - Home Page
