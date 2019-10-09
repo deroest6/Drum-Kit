@@ -1,6 +1,6 @@
 # Drum-Kit
-
-I just want to bang on the drum all day. If this is you... get bangin to these drum beats! 
+f
+If your anything like Todd Rundgren just want to bang on the drums all day. Now you can! If this is you... get bangin!
 
 
 ### Web Technology Stack
