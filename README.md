@@ -1,12 +1,9 @@
 # Drum-Kit
-Drum Kit Beats Udemy Project
 
-
-#### Description
 I just want to bang on the drum all day. If this is you... get bangin to these drum beats! 
 
 
-#### Web Technology Stack
+### Web Technology Stack
 HTML, CSS, Javascript
 
 
