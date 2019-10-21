@@ -8,4 +8,4 @@ HTML, CSS, Javascript
 
 
 ### Bang On The Drums
-https://www.deroest6.github.io/Drum-Kit/ - Home Page
+https://deroest6.github.io/Drum-Kit/- Home Page
