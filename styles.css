@@ -1,5 +1,5 @@
 html {
-  background: url(sound-bar.svg) no-repeat center center fixed;
+  background: url(images/sound-bar.svg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,7 +20,6 @@ h1 {
 footer {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  position: fixed;
   position: fixed;
   width: 500px;
   height: 200px;
@@ -82,7 +81,7 @@ footer {
 
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
-  opacity: 0.5;
+  opacity: 0.15;
 }
 
 .drum {
