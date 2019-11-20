@@ -1,7 +1,11 @@
 # Drum-Kit
-Drum Kit Beats Udemy Project
+f
+If your anything like Todd Rundgren just want to bang on the drums all day. Now you can! If this is you... get bangin!
 
-#### I just want to bang on the drum all day. If this is you... get bangin to these drum beats!
 
-###
-Beat on the drum here:  https://deroest6.github.io/Drum-Kit/
+### Web Technology Stack
+HTML, CSS, Javascript
+
+
+### Bang On The Drums
+https://deroest6.github.io/Drum-Kit/ - Home Page
